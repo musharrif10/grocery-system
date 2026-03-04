@@ -1,0 +1,18 @@
+Server:  KANDY-STU-ADC.apiit.edu
+Address:  172.20.2.2
+
+_mongodb._tcp.cluster0.jgawjxz.mongodb.net	SRV service location:
+	  priority       = 0
+	  weight         = 0
+	  port           = 27017
+	  svr hostname   = ac-x2kakna-shard-00-01.jgawjxz.mongodb.net
+_mongodb._tcp.cluster0.jgawjxz.mongodb.net	SRV service location:
+	  priority       = 0
+	  weight         = 0
+	  port           = 27017
+	  svr hostname   = ac-x2kakna-shard-00-02.jgawjxz.mongodb.net
+_mongodb._tcp.cluster0.jgawjxz.mongodb.net	SRV service location:
+	  priority       = 0
+	  weight         = 0
+	  port           = 27017
+	  svr hostname   = ac-x2kakna-shard-00-00.jgawjxz.mongodb.net
